@@ -4,11 +4,13 @@
 ###Light, chill and yellow,###
 ####Bathes the serene####
 #####Foreheads of houses.#####
-A thrush sings,
-Laurel-surrounded
-In the deep bare garden,
-Its fresh-peeled voice
-_Astonishing_ the brickwork.
+A thrush sings,  
+Laurel-surrounded  
+
+In the deep bare garden,  
+
+Its fresh-peeled voice  
+_Astonishing_ the brickwork.  
 It will be spring soon,
 It will be spring soon --
 And I, whose childhood
